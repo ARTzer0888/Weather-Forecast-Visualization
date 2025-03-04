@@ -1,4 +1,17 @@
+
 # Weather-Forecast-Visualization
+
+*COMPANY*: CODTECH ID SOLUTIONS
+
+*NAME*: RAJ SHANKAR PATIL
+
+*INTERN ID*: CODHC215
+
+*DOMAIN*: PYTHON PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
 
 This is a Python project that fetches weather forecast data from the [OpenWeatherMap API](https://openweathermap.org/) and visualizes it using `Matplotlib`.
 
