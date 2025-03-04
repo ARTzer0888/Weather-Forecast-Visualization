@@ -40,7 +40,7 @@ You can install them using `pip`:
 
 ```bash
 pip install requests matplotlib
-
+```
 
 
 #OUTPUT
