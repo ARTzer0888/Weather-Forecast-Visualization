@@ -41,6 +41,8 @@ You can install them using `pip`:
 ```bash
 pip install requests matplotlib
 
+
+
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/02f92f69-b9ff-44e7-acab-38275fcb114a)
